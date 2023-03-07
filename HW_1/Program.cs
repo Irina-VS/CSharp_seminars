@@ -31,3 +31,32 @@
 
 // 6 Напишите программу, которая на вход принимает число и выдает, 
 // является ли число четным (делится ли оно на два без остатка).
+// Console.WriteLine("Введите число"); 
+// int number1 = Convert.ToInt32(Console.ReadLine());
+// double result = number1%2;
+
+// if(result==0)
+// {
+//     Console.WriteLine("да");
+// }
+// else
+// {
+//     Console.WriteLine("нет");
+// }
+
+// 8  Напишите программу, которая на вход принимает число (N), 
+//а на выходе показывает все чётные числа от 1 до N.
+// Console.WriteLine("Введите число"); 
+// int number1 = Convert.ToInt32(Console.ReadLine());
+// int Num = 1;
+// double result = 0;
+// Console.WriteLine("Ответ");
+// while (Num<=number1)
+// {
+//     result = Num%2;
+//     if(result==0)
+//     {
+//      Console.WriteLine(Num);
+//     }
+//     Num = Num + 1;
+// }  
